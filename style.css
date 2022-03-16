@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-image: url(img/bg7.jpg);
+    width: 100%;
+    min-height: 900px;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-flow: ;
+    align-content: ;
+    justify-content: ;
+    align-self: ;
+}
+
+    
